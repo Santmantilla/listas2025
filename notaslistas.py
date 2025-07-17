@@ -129,8 +129,6 @@ if __name__ == "__main__":
             os.system('pause')
         elif opcion == 2:
             registro_notas()
-            print(alumnos)
-            os.system('pause')
         elif opcion == 3:
             notas_final()
             os.system('pause')
